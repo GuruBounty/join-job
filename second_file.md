@@ -1,2 +1,2 @@
 line with text
-[main page](./index.md)
+[index.md](index.md)
